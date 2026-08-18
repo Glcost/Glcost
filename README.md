@@ -24,5 +24,5 @@
 ---
 
 ### 📫 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-costa-silva-77a51a356/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Br9o7X9lVTRejyGvmy9wBFg%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme.silv.senai@gmail.com)
